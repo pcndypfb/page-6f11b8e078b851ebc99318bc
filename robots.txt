@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.guoxinchailv.cn/sitemap.xml
